@@ -32,7 +32,7 @@ nameroll.close()
 while True:
     os.system('color E')
     outputfile = open('output.txt', 'a+')
-    print(Fore.YELLOW+"******************************"+Fore.MAGENTA+"Welcome to 120IPRSeconds"+Fore.YELLOW+"*********************************")
+    print(Fore.YELLOW+"******************************"+Fore.MAGENTA+"Welcome to Extempore Speech Game"+Fore.YELLOW+"*********************************")
     print(Style.RESET_ALL)
     roll = str(input(Fore.CYAN+"Please Enter your Roll no:   ")).strip()
         
